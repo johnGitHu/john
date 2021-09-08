@@ -2890,6 +2890,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   z-index: 100;
   right: 0;
   top: 0;
+  width: 100%;
 }
 
 .header__content {
